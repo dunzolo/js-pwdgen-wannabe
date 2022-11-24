@@ -4,5 +4,6 @@ PROBLEMA: Chiedi all’utente il suo nome, poi chiedi il suo cognome, poi chiedi
 2 - Chiedere all'utente di inserire il suo cognome
 3 - Chiedere all'utente di inserire il suo colore preferito
 4 - Concateno uno dopo l'altro i dati inseriti dall'utente aggiungendo alla fine il numero 21
-5 - Recupero l'elemento avente specifico ID all'interno del DOM
-6 - Alla sua proprietà innerHTML assegno il valore dei dati concatenati tra di loro
+5 - Inserisco il valore ottenuto nell'HTML e lo visualizzo
+    5a - Recupero l'elemento avente specifico ID all'interno del DOM
+    5b - Alla sua proprietà innerHTML assegno il valore dei dati concatenati tra di loro
