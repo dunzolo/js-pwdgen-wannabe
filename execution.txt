@@ -1,0 +1,8 @@
+PROBLEMA: Chiedi all’utente il suo nome, poi chiedi il suo cognome, poi chiedi il suo colore preferito Infine scrivi sulla pagina nomecognomecolorepreferito21.
+
+1 - Chiedere all'utente di inserire il sui nome
+2 - Chiedere all'utente di inserire il suo cognome
+3 - Chiedere all'utente di inserire il suo colore preferito
+4 - Concateno uno dopo l'altro i dati inseriti dall'utente aggiungendo alla fine il numero 21
+5 - Recupero l'elemento avente specifico ID all'interno del DOM
+6 - Alla sua proprietà innerHTML assegno il valore dei dati concatenati tra di loro
